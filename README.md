@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="dotfiles" title="dotfiles" src="https://github.com/alxshelepenok/dotfiles/blob/master/documents/images/logo.svg" width="128"> </br>
+    <img alt="dotfiles" title="dotfiles" src="https://github.com/alxshelepenok/dotfiles/blob/main/documents/images/logo.svg" width="128"> </br>
     Dotfiles
 </h1>
 
