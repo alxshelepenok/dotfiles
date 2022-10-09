@@ -1,0 +1,23 @@
+[Default Applications]
+application/epub+zip=org.pwmt.zathura.desktop
+application/pdf=org.pwmt.zathura.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop
+application/xhtml+xml=google-chrome.desktop
+application/xml=google-chrome.desktop
+image/gif=vimiv.desktop
+image/jpeg=vimiv.desktop
+image/png=vimiv.desktop
+image/svg+xml=vimiv.desktop
+image/webp=vimiv.desktop
+text/html=google-chrome.desktop
+text/plain=sublime_text.desktop
+text/tab-separated-values=visidata.desktop
+text/x-c=sublime_text.desktop
+text/x-diff=sublime_text.desktop
+text/x-shellscript=sublime_text.desktop
+video/mp4=mpv.desktop
+video/x-matroska=mpv.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop

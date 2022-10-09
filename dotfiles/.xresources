@@ -1,0 +1,10 @@
+Xft.dpi: 220
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintfull
+Xft.lcdfilter: lcddefault
+xscreensaver.fade: false
+xscreensaver.unfade: false
+rofi.dpi: 220;

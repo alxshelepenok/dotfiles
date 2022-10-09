@@ -1,0 +1,6 @@
+Command=/home/alexander/.config/genmon/scripts/memory.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=4000
+Font=System-ui 11
+
