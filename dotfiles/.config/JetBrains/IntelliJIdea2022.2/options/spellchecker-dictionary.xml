@@ -20,6 +20,7 @@
       <w>babelrc</w>
       <w>backdpop</w>
       <w>backtesting</w>
+      <w>bbswitch</w>
       <w>bcyeu</w>
       <w>beforeend</w>
       <w>bibox</w>
@@ -71,14 +72,19 @@
       <w>deribit</w>
       <w>digifinex</w>
       <w>direnv</w>
+      <w>dmrc</w>
+      <w>droidcam</w>
+      <w>droot</w>
       <w>duis</w>
       <w>egld</w>
       <w>emergencysell</w>
       <w>esmodules</w>
+      <w>esnapshots</w>
       <w>ethfinex</w>
       <w>euismod</w>
       <w>evenodd</w>
       <w>evts</w>
+      <w>exitcode</w>
       <w>extrabold</w>
       <w>filespath</w>
       <w>finibus</w>
@@ -92,12 +98,18 @@
       <w>freqtrade</w>
       <w>freqtradeorg</w>
       <w>frontmatter</w>
+      <w>fstrim</w>
       <w>ftype</w>
+      <w>fwupd</w>
       <w>gateio</w>
+      <w>genmon</w>
       <w>gifsicle</w>
+      <w>gitmodules</w>
       <w>gitpod</w>
+      <w>gruvbox</w>
       <w>hbar</w>
       <w>hgetall</w>
+      <w>hicolor</w>
       <w>hintfull</w>
       <w>hintstyle</w>
       <w>hitbtc</w>
@@ -115,6 +127,8 @@
       <w>ipam</w>
       <w>irure</w>
       <w>itransition</w>
+      <w>iwlmvm</w>
+      <w>iwlwifi</w>
       <w>jamstack</w>
       <w>jnsujkz</w>
       <w>jsnext</w>
@@ -130,18 +144,24 @@
       <w>libsecp</w>
       <w>litecoin</w>
       <w>loadershim</w>
+      <w>logind</w>
       <w>lookback</w>
       <w>lrank</w>
       <w>lulg</w>
       <w>malorum</w>
       <w>mdev</w>
+      <w>mimeapps</w>
+      <w>mizer</w>
       <w>mkto</w>
       <w>modulepreload</w>
       <w>mozjpeg</w>
       <w>mtproto</w>
+      <w>murrine</w>
       <w>nasos</w>
       <w>ncdh</w>
+      <w>networkd</w>
       <w>newsearch</w>
+      <w>nftables</w>
       <w>nginxproxy</w>
       <w>nisi</w>
       <w>noninfringement</w>
@@ -162,14 +182,21 @@
       <w>pairlist</w>
       <w>pairlists</w>
       <w>pamp</w>
+      <w>papirus</w>
       <w>paxg</w>
+      <w>pcscd</w>
       <w>pellentesque</w>
+      <w>perchannel</w>
+      <w>pgcli</w>
       <w>pharetra</w>
       <w>pinba</w>
       <w>pkgext</w>
       <w>polx</w>
       <w>postcssrc</w>
+      <w>powerlevel</w>
       <w>preconnect</w>
+      <w>prelight</w>
+      <w>progressbarstyle</w>
       <w>promocode</w>
       <w>promocodes</w>
       <w>pycoingecko</w>
@@ -181,7 +208,9 @@
       <w>refreshtoken</w>
       <w>reinit</w>
       <w>replayable</w>
+      <w>repoctl</w>
       <w>requirepass</w>
+      <w>resolv</w>
       <w>rofi</w>
       <w>roush</w>
       <w>safepath</w>
@@ -191,6 +220,7 @@
       <w>seqno</w>
       <w>sexualized</w>
       <w>shelepenok</w>
+      <w>shellcheckrc</w>
       <w>shellscript</w>
       <w>skey</w>
       <w>socio</w>
@@ -218,10 +248,13 @@
       <w>undotted</w>
       <w>unfade</w>
       <w>unfilledtimeout</w>
+      <w>unhide</w>
       <w>upbit</w>
+      <w>updatedb</w>
       <w>upgrader</w>
       <w>uptodate</w>
       <w>urlshortener</w>
+      <w>usbguard</w>
       <w>usdc</w>
       <w>usdn</w>
       <w>usdp</w>
@@ -229,6 +262,7 @@
       <w>utilsocshare</w>
       <w>vals</w>
       <w>vecs</w>
+      <w>vimiv</w>
       <w>waterscape</w>
       <w>waterscapedb</w>
       <w>webpath</w>
@@ -236,16 +270,26 @@
       <w>winrate</w>
       <w>wstf</w>
       <w>wtrscape</w>
+      <w>xfconf</w>
+      <w>xinitrc</w>
+      <w>xprofile</w>
       <w>xrdb</w>
       <w>xresources</w>
       <w>xscreensaver</w>
+      <w>xsessionrc</w>
       <w>xset</w>
+      <w>xthickness</w>
       <w>xvcj</w>
       <w>yoyo</w>
+      <w>ythickness</w>
+      <w>zathura</w>
+      <w>zathurarc</w>
       <w>zdotdir</w>
       <w>zirkon</w>
       <w>znmcw</w>
       <w>zoneinfo</w>
+      <w>zprofile</w>
+      <w>zshenv</w>
       <w>zstyle</w>
       <w>zword</w>
       <w>zyro</w>

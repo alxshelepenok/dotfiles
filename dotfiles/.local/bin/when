@@ -12,7 +12,6 @@ time_blocks = [
     ("second", 1),
 ]
 
-
 def format(start, now, max_suffixes=2):
     if start <= now:
         duration = now - start

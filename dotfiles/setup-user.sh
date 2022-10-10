@@ -30,7 +30,7 @@ is_chroot() {
 }
 
 systemctl_enable_start() {
-    echo "systemctl --user enable --now "$1""
+    echo "systemctl --user enable --now $1"
     systemctl --user enable --now "$1"
 }
 
@@ -51,12 +51,13 @@ link ".magic"
 link ".p10k.zsh"
 link ".p10k.zsh" ".p10k-ascii-8color.zsh"
 link ".zprofile"
+link ".shellcheckrc"
 link ".zsh-aliases"
 link ".zshenv"
 link ".zshrc"
 
 link ".config/bat"
-link ".config/JetBrains/options/spellchecker-dictionary.xml"
+link ".config/JetBrains/IntelliJIdea2022.2/options/spellchecker-dictionary.xml"
 link ".config/chrome-flags.conf"
 link ".config/droidcam"
 link ".config/environment.d"
