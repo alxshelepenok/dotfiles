@@ -71,6 +71,7 @@
       <w>dego</w>
       <w>deribit</w>
       <w>digifinex</w>
+      <w>dircolors</w>
       <w>direnv</w>
       <w>dmrc</w>
       <w>droidcam</w>
@@ -98,6 +99,7 @@
       <w>freqtrade</w>
       <w>freqtradeorg</w>
       <w>frontmatter</w>
+      <w>frxmk</w>
       <w>fstrim</w>
       <w>ftype</w>
       <w>fwupd</w>
@@ -147,8 +149,10 @@
       <w>logind</w>
       <w>lookback</w>
       <w>lrank</w>
+      <w>lsarchive</w>
       <w>lulg</w>
       <w>malorum</w>
+      <w>mbegin</w>
       <w>mdev</w>
       <w>mimeapps</w>
       <w>mizer</w>
@@ -195,12 +199,14 @@
       <w>postcssrc</w>
       <w>powerlevel</w>
       <w>preconnect</w>
+      <w>preexec</w>
       <w>prelight</w>
       <w>progressbarstyle</w>
       <w>promocode</w>
       <w>promocodes</w>
       <w>pycoingecko</w>
       <w>qtum</w>
+      <w>quitcd</w>
       <w>randrange</w>
       <w>rebinned</w>
       <w>reconciler</w>
@@ -212,12 +218,14 @@
       <w>requirepass</w>
       <w>resolv</w>
       <w>rofi</w>
+      <w>romkatv</w>
       <w>roush</w>
       <w>safepath</w>
       <w>scrollback</w>
       <w>secp</w>
       <w>selfts</w>
       <w>seqno</w>
+      <w>setopt</w>
       <w>sexualized</w>
       <w>shelepenok</w>
       <w>shellcheckrc</w>
