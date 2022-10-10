@@ -12,7 +12,7 @@ workdir=$(git rev-parse --show-toplevel)
 [[ $workdir == $PWD ]]
 
 git submodule deinit -f -- $1
-rm -rf -- $gitdir/modules/$1
+rm -rf -- "$gitdir"/modules/"$1"
 rm -rf -- $1
 
 echo "Remember to update .gitmodules"

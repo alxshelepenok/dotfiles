@@ -20,7 +20,7 @@ fi
 
 cd "$HOME"
 echo -e "\nBackup STARTED\n\nSource(s):   $SOURCE\nDestination: $BACKUP_DIR\n"
-rsync -a --info=progress2 $SOURCE $BACKUP_DIR
+rsync -a --info=progress2 "$SOURCE" "$BACKUP_DIR"
 exitcode=$?
 
 if [ "$exitcode" -eq "0" ]; then
