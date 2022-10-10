@@ -1,1 +1,10 @@
 .idea/
+__pycache__
+tags
+*.antigen-compat
+*.zwc
+*.tar
+*.tar.*
+*.log
+.magic.mgc
+.uuid
