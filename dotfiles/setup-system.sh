@@ -63,7 +63,6 @@ echo "=========================="
 echo "Setting up /etc configs..."
 echo "=========================="
 
-copy "etc/fwupd/uefi_capsule.conf"
 copy "etc/modules-load.d/v4l2loopback.conf"
 copy "etc/modules-load.d/droidcam.conf"
 copy "etc/modules-load.d/bbswitch.conf"
