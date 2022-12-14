@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-taskmanager" version="1.0">
-  <property name="window-width" type="int" value="819"/>
-  <property name="window-height" type="int" value="600"/>
+  <property name="window-width" type="int" value="1358"/>
+  <property name="window-height" type="int" value="674"/>
   <property name="columns" type="empty">
     <property name="sort-type" type="uint" value="1"/>
-    <property name="sort-id" type="uint" value="5"/>
+    <property name="sort-id" type="uint" value="7"/>
     <property name="column-state" type="bool" value="false"/>
     <property name="column-vsz" type="bool" value="false"/>
     <property name="column-rss" type="bool" value="true"/>
     <property name="column-priority" type="bool" value="false"/>
+  </property>
+  <property name="interface" type="empty">
+    <property name="handle-position" type="int" value="132"/>
   </property>
 </channel>

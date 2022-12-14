@@ -1,5 +1,5 @@
-favorites=sublime_text.desktop,google-chrome.desktop,jetbrains-idea.desktop,slack.desktop,telegramdesktop.desktop,droidcam.desktop,mockoon.desktop,genymotion.desktop,discord.desktop,org.keepassxc.KeePassXC.desktop,galculator.desktop,xfce4-screenshooter.desktop,kitty.desktop
-recent=slack.desktop,genymotion.desktop,droidcam.desktop,xterm.desktop,lxterminal.desktop,thunar.desktop,google-chrome.desktop,discord.desktop
+favorites=sublime_text.desktop,google-chrome.desktop,jetbrains-idea.desktop,slack.desktop,droidcam.desktop,mockoon.desktop,genymotion.desktop,discord.desktop,org.keepassxc.KeePassXC.desktop,galculator.desktop,xfce4-screenshooter.desktop,kitty.desktop
+recent=kitty.desktop,xfce-display-settings.desktop,google-chrome.desktop,xfce4-accessibility-settings.desktop,slack.desktop,org.telegram.desktop.desktop,jetbrains-idea.desktop,mockoon.desktop,org.inkscape.Inkscape.desktop,gimp.desktop
 button-title=Network\ \ 
 button-icon=/home/alexander/.local/share/icons/Papirus/64x64/apps/sakura-spirit.svg
 button-single-row=false

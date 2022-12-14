@@ -6,6 +6,7 @@
       <w>agld</w>
       <w>aion</w>
       <w>alphanum</w>
+      <w>alxshel</w>
       <w>alxshelepenok</w>
       <w>ankr</w>
       <w>arcu</w>
@@ -116,6 +117,7 @@
       <w>hintstyle</w>
       <w>hitbtc</w>
       <w>horz</w>
+      <w>hotoke</w>
       <w>hset</w>
       <w>huobi</w>
       <w>hypernova</w>
@@ -170,8 +172,10 @@
       <w>nisi</w>
       <w>noninfringement</w>
       <w>noopen</w>
+      <w>noopener</w>
       <w>noquotes</w>
       <w>nordvpn</w>
+      <w>noreferrer</w>
       <w>nosniff</w>
       <w>numpy</w>
       <w>odio</w>
@@ -217,19 +221,23 @@
       <w>repoctl</w>
       <w>requirepass</w>
       <w>resolv</w>
+      <w>rmin</w>
       <w>rofi</w>
       <w>romkatv</w>
       <w>roush</w>
+      <w>rustfmt</w>
       <w>safepath</w>
       <w>scrollback</w>
       <w>secp</w>
       <w>selfts</w>
+      <w>semibold</w>
       <w>seqno</w>
       <w>setopt</w>
       <w>sexualized</w>
       <w>shelepenok</w>
       <w>shellcheckrc</w>
       <w>shellscript</w>
+      <w>shiranu</w>
       <w>skey</w>
       <w>socio</w>
       <w>splitted</w>
@@ -286,6 +294,7 @@
       <w>xscreensaver</w>
       <w>xsessionrc</w>
       <w>xset</w>
+      <w>xsmall</w>
       <w>xthickness</w>
       <w>xvcj</w>
       <w>yoyo</w>

@@ -7,4 +7,4 @@ Xft.hintstyle: hintfull
 Xft.lcdfilter: lcddefault
 xscreensaver.fade: false
 xscreensaver.unfade: false
-rofi.dpi: 220;
+rofi.dpi: 220
