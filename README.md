@@ -1,11 +1,6 @@
-<h1 align="center">
-    <img src="https://github.com/alxshelepenok/dotfiles/blob/main/documents/images/logo.svg" width="128"> <br>
-    Dotfiles
-</h1>
+# dotfiles
 
-<h4 align="center">
-  My personal dotfiles for vim, zsh, and other tools.
-</h4>
+My personal dotfiles for vim, zsh, and other tools.
 
 # License
 
