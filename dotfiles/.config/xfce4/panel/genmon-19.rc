@@ -1,6 +1,0 @@
-Command=/home/alexander/.config/genmon/scripts/nordvpn.sh
-UseLabel=0
-Text=(genmon)
-UpdatePeriod=5000
-Font=System-ui 11
-

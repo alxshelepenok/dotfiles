@@ -2,26 +2,43 @@
   <component name="CachedDictionaryState">
     <words>
       <w>aave</w>
+      <w>actn</w>
+      <w>addrows</w>
       <w>aergo</w>
+      <w>aeur</w>
       <w>agld</w>
+      <w>agrs</w>
       <w>aion</w>
+      <w>alertgroup</w>
+      <w>alertname</w>
+      <w>alertstate</w>
       <w>alphanum</w>
       <w>alxshel</w>
       <w>alxshelepenok</w>
+      <w>amazonaws</w>
       <w>ankr</w>
+      <w>appc</w>
       <w>arcu</w>
+      <w>ardr</w>
+      <w>audr</w>
       <w>aurb</w>
       <w>aurs</w>
       <w>aute</w>
+      <w>autoflush</w>
+      <w>autoflushing</w>
       <w>autohint</w>
       <w>automerge</w>
       <w>avax</w>
       <w>avenir</w>
       <w>avif</w>
+      <w>aywa</w>
       <w>babelrc</w>
       <w>backdpop</w>
       <w>backtesting</w>
       <w>bbswitch</w>
+      <w>bcbc</w>
+      <w>bcio</w>
+      <w>bcpt</w>
       <w>bcyeu</w>
       <w>beforeend</w>
       <w>bibox</w>
@@ -35,39 +52,63 @@
       <w>bitstamp</w>
       <w>bittrex</w>
       <w>blackfriday</w>
+      <w>blcn</w>
+      <w>bnty</w>
       <w>boba</w>
       <w>bonorum</w>
+      <w>browseable</w>
       <w>brwl</w>
+      <w>btcd</w>
+      <w>btcp</w>
       <w>btcst</w>
+      <w>btcz</w>
+      <w>btdx</w>
       <w>bubbleing</w>
+      <w>bubi</w>
+      <w>buildah</w>
       <w>busd</w>
+      <w>calcs</w>
       <w>callorder</w>
+      <w>cantarell</w>
       <w>ccxt</w>
       <w>ccxws</w>
       <w>celo</w>
       <w>celr</w>
       <w>centrifugo</w>
+      <w>cenz</w>
       <w>chan</w>
       <w>changefreq</w>
+      <w>chrono</w>
+      <w>clearall</w>
       <w>cluc</w>
       <w>coinex</w>
+      <w>colx</w>
       <w>commitlint</w>
       <w>conventionalcommits</w>
+      <w>coreui</w>
+      <w>countall</w>
       <w>craco</w>
       <w>crosshair</w>
+      <w>crpt</w>
       <w>cspr</w>
+      <w>ctrlc</w>
       <w>ctsi</w>
+      <w>ctxc</w>
       <w>cusd</w>
       <w>cusdt</w>
       <w>cwar</w>
       <w>cxns</w>
+      <w>dashlist</w>
       <w>datadir</w>
       <w>dataformat</w>
+      <w>datapoints</w>
+      <w>datasources</w>
       <w>datasourse</w>
       <w>dbconfig</w>
       <w>dbtype</w>
       <w>dddf</w>
       <w>deattach</w>
+      <w>deez</w>
       <w>defi</w>
       <w>dego</w>
       <w>deribit</w>
@@ -78,8 +119,15 @@
       <w>droidcam</w>
       <w>droot</w>
       <w>duis</w>
+      <w>ebst</w>
+      <w>edoge</w>
       <w>egld</w>
+      <w>elec</w>
+      <w>elix</w>
       <w>emergencysell</w>
+      <w>entrp</w>
+      <w>eqli</w>
+      <w>equa</w>
       <w>esmodules</w>
       <w>esnapshots</w>
       <w>ethfinex</w>
@@ -87,10 +135,13 @@
       <w>evenodd</w>
       <w>evts</w>
       <w>exitcode</w>
+      <w>exmo</w>
       <w>extrabold</w>
       <w>filespath</w>
       <w>finibus</w>
       <w>finta</w>
+      <w>fldc</w>
+      <w>flushall</w>
       <w>fname</w>
       <w>focalboard</w>
       <w>fodl</w>
@@ -105,14 +156,22 @@
       <w>ftype</w>
       <w>fwupd</w>
       <w>gateio</w>
+      <w>gbyte</w>
       <w>genmon</w>
       <w>gifsicle</w>
       <w>gitmodules</w>
       <w>gitpod</w>
+      <w>glxt</w>
+      <w>gnet</w>
+      <w>gnupghome</w>
+      <w>groupby</w>
       <w>gruvbox</w>
+      <w>gstorage</w>
+      <w>gusd</w>
       <w>hbar</w>
       <w>hgetall</w>
       <w>hicolor</w>
+      <w>hight</w>
       <w>hintfull</w>
       <w>hintstyle</w>
       <w>hitbtc</w>
@@ -124,7 +183,11 @@
       <w>ibfk</w>
       <w>iccxws</w>
       <w>idrt</w>
+      <w>indexdb</w>
+      <w>indexmap</w>
+      <w>influxd</w>
       <w>infura</w>
+      <w>inmemory</w>
       <w>installsuffix</w>
       <w>iost</w>
       <w>iotx</w>
@@ -134,6 +197,7 @@
       <w>iwlmvm</w>
       <w>iwlwifi</w>
       <w>jamstack</w>
+      <w>jehb</w>
       <w>jnsujkz</w>
       <w>jsnext</w>
       <w>jsongz</w>
@@ -146,6 +210,7 @@
       <w>lcdfilter</w>
       <w>letsencrypt</w>
       <w>libsecp</w>
+      <w>linewidth</w>
       <w>litecoin</w>
       <w>loadershim</w>
       <w>logind</w>
@@ -154,19 +219,30 @@
       <w>lsarchive</w>
       <w>lulg</w>
       <w>malorum</w>
+      <w>marksweep</w>
       <w>mbegin</w>
       <w>mdev</w>
+      <w>meetone</w>
+      <w>memstats</w>
       <w>mimeapps</w>
+      <w>miota</w>
+      <w>mith</w>
       <w>mizer</w>
       <w>mkto</w>
+      <w>moac</w>
       <w>modulepreload</w>
+      <w>mousedrag</w>
       <w>mozjpeg</w>
       <w>mtproto</w>
+      <w>muhammadtriwibowo</w>
       <w>murrine</w>
       <w>nasos</w>
+      <w>ncash</w>
       <w>ncdh</w>
       <w>networkd</w>
+      <w>neue</w>
       <w>newsearch</w>
+      <w>nexo</w>
       <w>nftables</w>
       <w>nginxproxy</w>
       <w>nisi</w>
@@ -177,10 +253,12 @@
       <w>nordvpn</w>
       <w>noreferrer</w>
       <w>nosniff</w>
+      <w>npxs</w>
       <w>numpy</w>
       <w>odio</w>
       <w>ohlcv</w>
       <w>okex</w>
+      <w>oom's</w>
       <w>optionalize</w>
       <w>optipng</w>
       <w>orderbook</w>
@@ -190,24 +268,33 @@
       <w>pairlist</w>
       <w>pairlists</w>
       <w>pamp</w>
+      <w>paperscope</w>
       <w>papirus</w>
+      <w>pasc</w>
+      <w>pasl</w>
       <w>paxg</w>
+      <w>payx</w>
       <w>pcscd</w>
       <w>pellentesque</w>
+      <w>percentunit</w>
       <w>perchannel</w>
       <w>pgcli</w>
       <w>pharetra</w>
       <w>pinba</w>
+      <w>pirl</w>
       <w>pkgext</w>
+      <w>pointradius</w>
       <w>polx</w>
       <w>postcssrc</w>
       <w>powerlevel</w>
+      <w>powr</w>
       <w>preconnect</w>
       <w>preexec</w>
       <w>prelight</w>
       <w>progressbarstyle</w>
       <w>promocode</w>
       <w>promocodes</w>
+      <w>pungo</w>
       <w>pycoingecko</w>
       <w>qtum</w>
       <w>quitcd</w>
@@ -220,7 +307,9 @@
       <w>replayable</w>
       <w>repoctl</w>
       <w>requirepass</w>
+      <w>reqwest</w>
       <w>resolv</w>
+      <w>rhoc</w>
       <w>rmin</w>
       <w>rofi</w>
       <w>romkatv</w>
@@ -229,6 +318,7 @@
       <w>safepath</w>
       <w>scrollback</w>
       <w>secp</w>
+      <w>segoe</w>
       <w>selfts</w>
       <w>semibold</w>
       <w>seqno</w>
@@ -238,28 +328,41 @@
       <w>shellcheckrc</w>
       <w>shellscript</w>
       <w>shiranu</w>
+      <w>signertypes</w>
+      <w>signout</w>
+      <w>singlestat</w>
       <w>skey</w>
+      <w>sngls</w>
       <w>socio</w>
+      <w>sphtx</w>
       <w>splitted</w>
       <w>sslmode</w>
       <w>stmx</w>
       <w>stoploss</w>
       <w>stpt</w>
+      <w>strat</w>
       <w>strax</w>
       <w>susd</w>
       <w>svgs</w>
       <w>swipeable</w>
       <w>sysu</w>
       <w>taskmanager</w>
+      <w>tcplistener</w>
+      <w>tcpstream</w>
       <w>tfuel</w>
+      <w>tgch</w>
       <w>timerange</w>
+      <w>timeseries</w>
       <w>tncl</w>
       <w>toggler</w>
+      <w>tpay</w>
       <w>tradable</w>
+      <w>tsdb</w>
       <w>turbina</w>
       <w>tusd</w>
       <w>tzdata</w>
       <w>ucdg</w>
+      <w>ulimit</w>
       <w>ultricies</w>
       <w>undotted</w>
       <w>unfade</w>
@@ -276,18 +379,31 @@
       <w>usdp</w>
       <w>usdt</w>
       <w>utilsocshare</w>
+      <w>uuidv</w>
       <w>vals</w>
       <w>vecs</w>
+      <w>veri</w>
+      <w>victoriametrics</w>
       <w>vimiv</w>
+      <w>vivo</w>
+      <w>vmrange</w>
+      <w>vmsingle</w>
+      <w>vrsc</w>
+      <w>vtho</w>
+      <w>vubzgz</w>
       <w>waterscape</w>
       <w>waterscapedb</w>
+      <w>webauth</w>
       <w>webpath</w>
       <w>webworker</w>
       <w>winrate</w>
       <w>wstf</w>
+      <w>wstfdb</w>
       <w>wtrscape</w>
+      <w>xaxis</w>
       <w>xfconf</w>
       <w>xinitrc</w>
+      <w>xmcc</w>
       <w>xprofile</w>
       <w>xrdb</w>
       <w>xresources</w>
@@ -297,7 +413,9 @@
       <w>xsmall</w>
       <w>xthickness</w>
       <w>xvcj</w>
+      <w>yaxes</w>
       <w>yoyo</w>
+      <w>yoyow</w>
       <w>ythickness</w>
       <w>zathura</w>
       <w>zathurarc</w>
@@ -310,11 +428,15 @@
       <w>zstyle</w>
       <w>zword</w>
       <w>zyro</w>
+      <w>акции</w>
       <w>версионирования</w>
+      <w>главная</w>
       <w>деструктуризации</w>
       <w>коммитов</w>
       <w>логироваться</w>
       <w>микуличи</w>
+      <w>перенести</w>
+      <w>популярные</w>
       <w>промонавигация</w>
       <w>редьюсер</w>
       <w>редьюсеры</w>
