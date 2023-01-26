@@ -16,5 +16,5 @@ try:
     )
 
     print(txt)
-except Exception:
-    print("No data")
+except (ValueError, Exception):
+    print("")
