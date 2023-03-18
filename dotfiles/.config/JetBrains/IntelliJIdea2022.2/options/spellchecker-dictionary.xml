@@ -115,13 +115,16 @@
       <w>defi</w>
       <w>dego</w>
       <w>deribit</w>
+      <w>dide</w>
       <w>digifinex</w>
       <w>dircolors</w>
       <w>direnv</w>
+      <w>disablekb</w>
       <w>discretize</w>
       <w>dmrc</w>
       <w>droidcam</w>
       <w>droot</w>
+      <w>dsun</w>
       <w>duis</w>
       <w>ebst</w>
       <w>edoge</w>
@@ -152,11 +155,13 @@
       <w>forcebuy</w>
       <w>forcesell</w>
       <w>fpath</w>
+      <w>frameborder</w>
       <w>freqtrade</w>
       <w>freqtradeorg</w>
       <w>frontmatter</w>
       <w>frxmk</w>
       <w>fstrim</w>
+      <w>ftook</w>
       <w>ftype</w>
       <w>fwupd</w>
       <w>gateio</w>
@@ -215,6 +220,9 @@
       <w>kaiko</w>
       <w>kava</w>
       <w>keepassxc</w>
+      <w>kubecontext</w>
+      <w>kubectx</w>
+      <w>kubens</w>
       <w>kucoin</w>
       <w>latlng</w>
       <w>lcddefault</w>
@@ -242,6 +250,7 @@
       <w>mizer</w>
       <w>mkto</w>
       <w>moac</w>
+      <w>modestbranding</w>
       <w>modulepreload</w>
       <w>mousedrag</w>
       <w>mozjpeg</w>
@@ -277,6 +286,7 @@
       <w>orderbook</w>
       <w>otherts</w>
       <w>outname</w>
+      <w>outofsync</w>
       <w>pageview</w>
       <w>pairlist</w>
       <w>pairlists</w>
@@ -296,6 +306,7 @@
       <w>pinba</w>
       <w>pirl</w>
       <w>pkgext</w>
+      <w>playsinline</w>
       <w>pointradius</w>
       <w>polx</w>
       <w>postcssrc</w>
@@ -311,6 +322,7 @@
       <w>pycoingecko</w>
       <w>qbittorrent</w>
       <w>qtum</w>
+      <w>quantumpwg</w>
       <w>quitcd</w>
       <w>randrange</w>
       <w>rebinned</w>
@@ -384,6 +396,7 @@
       <w>unfade</w>
       <w>unfilledtimeout</w>
       <w>unhide</w>
+      <w>unstaged</w>
       <w>upbit</w>
       <w>updatedb</w>
       <w>upgrader</w>
@@ -454,7 +467,10 @@
       <w>микуличи</w>
       <w>обзоры</w>
       <w>перенести</w>
+      <w>понравилось</w>
       <w>популярные</w>
+      <w>посмотрели</w>
+      <w>предложения</w>
       <w>промонавигация</w>
       <w>редьюсер</w>
       <w>редьюсеры</w>

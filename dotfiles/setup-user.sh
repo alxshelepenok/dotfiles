@@ -73,12 +73,8 @@ link ".config/genmon"
 link ".config/zathura/zathurarc"
 link ".config/sublime-text/Packages/User"
 
-
-link ".local/bin"
-link ".local/share/applications"
 link ".local/share/themes"
 link ".local/share/icons"
-link ".local/share/plank/themes/default"
 
 if is_chroot; then
     echo >&2 "=== Running in chroot, skipping user services..."
