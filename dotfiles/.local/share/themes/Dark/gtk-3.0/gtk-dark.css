@@ -6422,8 +6422,24 @@ filechooser placessidebar.sidebar scrollbar slider:disabled,
 
 filechooser placessidebar.sidebar scrollbar trough,
 .nautilus-window placessidebar.sidebar scrollbar trough {
-
   background-color: rgba(42, 45, 55, 0.95); }
+
+.tasklist image {
+  margin-left: 10px;
+}
+.tasklist button {
+  color: rgba(186, 195, 207, 0.8);
+  border-radius: 0;
+  border: none;
+  background-color: rgba(43, 46, 55, 0); }
+.tasklist button:hover {
+  color: #d8dde4;
+  background-color: rgba(0, 0, 0, 0.17); }
+.tasklist button:checked {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0 -2px rgba(134, 144, 165, 0.37); }
+
 /*******************************************************************************/
 
 /*********************************************************************/
