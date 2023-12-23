@@ -11,7 +11,7 @@ if [ "$CONNECTED" == "Connected" ]; then
   INFO+="<tool></tool>"
 else
   INFO="<icon>network-vpn-symbolic</icon>"
-  INFO+="<txt>Disconnected</txt>"
+  INFO+="<txt> Disconnected</txt>"
   INFO+="<tool></tool>"
 fi
 

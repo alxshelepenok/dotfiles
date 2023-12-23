@@ -17,4 +17,4 @@ try:
 
     print(txt)
 except (ValueError, Exception):
-    print("")
+    print(" ")
