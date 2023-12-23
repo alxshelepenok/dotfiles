@@ -69,9 +69,6 @@ link ".config/vimiv"
 link ".config/genmon"
 link ".config/zathura/zathurarc"
 
-link ".local/share/themes"
-link ".local/share/icons"
-
 if is_chroot; then
     echo >&2 "=== Running in chroot, skipping user services..."
 fi
