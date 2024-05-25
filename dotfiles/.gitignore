@@ -8,3 +8,4 @@ tags
 *.log
 .magic.mgc
 .uuid
+.env

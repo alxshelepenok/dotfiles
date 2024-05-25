@@ -84,3 +84,8 @@ z4h source -- $ZDOTDIR/.zsh-aliases
 z4h source -- $ZDOTDIR/.zshrc-private
 
 [[ -f ~/.xresources ]] && xrdb -load ~/.xresources
+
+export ATUIN_NOBIND="true"
+eval "$(atuin init zsh)"
+
+bindkey '^r' atuin-search
