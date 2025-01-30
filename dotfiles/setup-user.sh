@@ -68,6 +68,7 @@ link ".config/USBGuard"
 link ".config/vimiv"
 link ".config/genmon"
 link ".config/zathura/zathurarc"
+link ".local/bin/powerwatts"
 
 if is_chroot; then
     echo >&2 "=== Running in chroot, skipping user services..."
